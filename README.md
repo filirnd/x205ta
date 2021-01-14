@@ -15,5 +15,7 @@ https://forum.ubuntu-it.org/viewtopic.php?f=43&t=644049
 
 ## Installed sw
 
-- telegram (snap) : sudo snap install telegram-desktop
-- micro <file editor> (snap) : sudo snap install micro --classic
+- telegram (snap) : 
+	`sudo snap install telegram-desktop`
+- micro <file editor> (snap) : 
+	`sudo snap install micro --classic`
