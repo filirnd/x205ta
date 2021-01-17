@@ -66,7 +66,7 @@ With Xubuntu 20.04 i don't have drivers issues (like wifi, touchpad) and all fun
 
 
 
-This part of guide is an English translation of this Italian guide (https://forum.ubuntu-it.org/viewtopic.php?f=43&t=644049)
+This part of guide is an English translation of [this Italian guide](https://forum.ubuntu-it.org/viewtopic.php?f=43&t=644049)
 
 
 
