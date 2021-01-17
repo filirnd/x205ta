@@ -1,5 +1,11 @@
 # Asus x205ta resources
 
+[TOC]
+
+
+
+## What is this ?
+
 This resources help to install linux (in this case Xubuntu) on Asus x205ta and (if you want) installing i3 windows manager with my personal desktop style.
 I choose xubuntu becouse is very lite, as opposed to ubuntu that is to heavy for this machine.
 I using i3 as windows manager because is more easy and distraction free to have only 1/2 full screen windows with a 11.6 display.
@@ -44,7 +50,9 @@ This is the steps for installing xubuntu:
 
 With Xubuntu 20.04 i don't have drivers issues (like wifi, touchpad) and function keyboards (like light or sound settings) works well.
 
-This part of guide is an english translation of this italian guide (https://forum.ubuntu-it.org/viewtopic.php?f=43&t=644049)
+
+
+This part of guide is an English translation of this Italian guide (https://forum.ubuntu-it.org/viewtopic.php?f=43&t=644049)
 
 
 
@@ -52,15 +60,22 @@ This part of guide is an english translation of this italian guide (https://foru
 
 ## Personal dotfiles
 
+### TODO
+
 .config
 
 
 ## Installed sw
 
-- i3: `sudo apt-get install i3`
+### TODO
 
+
+
+- i3: `sudo apt-get install i3`
 - telegram (snap) : 
 	`sudo snap install telegram-desktop`
 - micro <file editor> (snap) : 
 	`sudo snap install micro --classic`
+
+
 
