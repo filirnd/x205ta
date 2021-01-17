@@ -1,10 +1,20 @@
 # Asus x205ta resources
 
-[TOC]
+
+
+## Table of Contents
+
+- ### [What is this](#wit)
+
+- ### [Linux (Xubuntu) installation guide](#installxub)
+
+- ### [Install i3 as windows manager](#installi3)
+
+- ## [Installed software](#installsw)
 
 
 
-## What is this ?
+## What is this ? <a name="wit"></a>
 
 This resources help to install linux (in this case Xubuntu) on Asus x205ta and (if you want) installing i3 windows manager with my personal desktop style.
 I choose xubuntu becouse is very lite, as opposed to ubuntu that is to heavy for this machine.
@@ -12,7 +22,7 @@ I using i3 as windows manager because is more easy and distraction free to have 
 Base Xfce is also good choose.
 
 
-## Linux (Xubuntu) installation guide 
+## Linux (Xubuntu) installation guide  <a name="installxub"></a>
 
 Installing a Linux distro on this netbook is not really easy, because normal distros missing a 32bit file (bootia32.efi) that this netbook need for starting a live usb distro.
 
@@ -56,20 +66,18 @@ This part of guide is an English translation of this Italian guide (https://foru
 
 
 
-
-
-## Personal dotfiles
+## Install i3 as windows manager <a name="installi3"></a> 
 
 ### TODO
 
 .config
 
 
-## Installed sw
+## Installed software <a name="installsw"></a> 
 
 ### TODO
 
-
+Personal installed softwares.
 
 - i3: `sudo apt-get install i3`
 - telegram (snap) : 
