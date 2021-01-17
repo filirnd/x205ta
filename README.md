@@ -62,7 +62,7 @@ This is the steps for installing xubuntu:
 
 
 
-With Xubuntu 20.04 i don't have drivers issues (like wifi, touchpad) and function keyboards (like light or sound settings) works well.
+With Xubuntu 20.04 i don't have drivers issues (like wifi, touchpad) and all function keys (like light or sound settings) works well.
 
 
 
