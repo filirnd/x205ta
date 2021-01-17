@@ -4,17 +4,29 @@
 
 ## Table of Contents
 
-- ### [What is this](#wit)
 
-- ### [Linux (Xubuntu) installation guide](#installxub)
 
-- ### [Install i3 as windows manager](#installi3)
+- #### [What is this](#wit)
 
-- ### [Installed software](#installsw)
+- #### [Linux (Xubuntu) installation guide](#installxub)
+
+- #### [Install i3 as windows manager](#installi3)
+
+- #### [Installed software](#installsw)
+
+
+
+
+
+
+
+
 
 
 
 ## What is this ? <a name="wit"></a>
+
+
 
 This resources help to install linux (in this case Xubuntu) on Asus x205ta and (if you want) installing i3 windows manager with my personal desktop style.
 I choose xubuntu becouse is very lite, as opposed to ubuntu that is to heavy for this machine.
@@ -22,7 +34,15 @@ I using i3 as windows manager because is more easy and distraction free to have 
 Base Xfce is also good choose.
 
 
+
+
+
+
+
+
 ## Linux (Xubuntu) installation guide  <a name="installxub"></a>
+
+
 
 Installing a Linux distro on this netbook is not really easy, because normal distros missing a 32bit file (bootia32.efi) that this netbook need for starting a live usb distro.
 
@@ -63,6 +83,10 @@ With Xubuntu 20.04 i don't have drivers issues (like wifi, touchpad) and functio
 
 
 This part of guide is an English translation of this Italian guide (https://forum.ubuntu-it.org/viewtopic.php?f=43&t=644049)
+
+
+
+
 
 
 
