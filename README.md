@@ -10,7 +10,7 @@
 
 - ### [Install i3 as windows manager](#installi3)
 
-- ## [Installed software](#installsw)
+- ### [Installed software](#installsw)
 
 
 
